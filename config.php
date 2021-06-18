@@ -6,14 +6,14 @@
 
 
 //define some constants you may want to use
-define('BRAND', 'Tempmailer');
-define('SITE', 'https://eyeti.xyz/');
+define('BRAND', 'Iriki');
+define('SITE', 'https://etc.iriki.cloud/tempmailer/');
 
+define('LOGO_URL', SITE . 'some-logo.png');
 
-define('TOP_LINK', 'eyeti.xyz');
+define('TOP_LINK', SITE . '#');
 define('SENDER', 'Eyeti Limited');
-define('SENDER_ADDRESS', 'Our physical/mail address here.');
-define('SENDER_PHONE', '+234-801-123-4567');
+define('SENDER_CONTACT', 'hi@eyeti.xyz');
 
 
 ?>
