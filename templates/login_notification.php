@@ -30,6 +30,12 @@
                                             <table class="table table-bordered" width="100%">
                                                 <tbody>
                                                     <tr>
+                                                        <td>ID</td>
+                                                        <td>
+                                                            <?= $params['identifier'] ?>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
                                                         <td>IP</td>
                                                         <td>
                                                             <?= $params['ip'] ?>
